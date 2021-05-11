@@ -5,4 +5,8 @@
  Interpolation between existing sequences 
  Manipulation of existing sequences via attribute vectors or a latent constraint model.
 
- get it 
+ get it
+ somwhow
+ dsd
+ dsjnd
+ 
